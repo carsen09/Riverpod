@@ -1,8 +1,8 @@
-# flutter_application_1
+# Riverpod_flutter
 
 A new Flutter project.
 
-## Getting Started
+## Carsen Wilmer
 
 This project is a starting point for a Flutter application.
 
